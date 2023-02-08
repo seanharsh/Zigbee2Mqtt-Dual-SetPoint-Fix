@@ -1,5 +1,5 @@
 blueprint:
-  name: Zigbee2mqtt Thermostat Fix - Scheduler Card
+  name: Zigbee2mqtt Dual Setpoint Fix
   description: Helps fix issues where a high and low setpoint are required for some thermostats in Zigbee2MQTT.
   domain: automation
   source_url: https://github.com/seanharsh/Zigbee2Mqtt-Dual-SetPoint-Fix/blob/main/z2m_thermostat_dual_setpoint_fix.yaml
